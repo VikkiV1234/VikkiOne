@@ -1,0 +1,7168 @@
+[{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad0"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 28,
+  "External Marks": 39,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad1"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 30,
+  "External Marks": 47,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad2"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 30,
+  "External Marks": 30,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad3"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 38,
+  "External Marks": 53,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad4"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 36,
+  "External Marks": 31,
+  "Semester Marks": 82,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad5"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 29,
+  "External Marks": 33,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad6"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 20,
+  "External Marks": 57,
+  "Semester Marks": 60,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad7"
+  },
+  "Student Name": "ABISHECK KUMAR J",
+  "Roll No": "23MCA001",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 36,
+  "External Marks": 48,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad8"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 22,
+  "External Marks": 44,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ad9"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 40,
+  "External Marks": 33,
+  "Semester Marks": 58,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ada"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 54,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4adb"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 24,
+  "External Marks": 55,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4adc"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 25,
+  "External Marks": 38,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4add"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 27,
+  "External Marks": 35,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ade"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 36,
+  "External Marks": 36,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4adf"
+  },
+  "Student Name": "ABISHEK V",
+  "Roll No": "23MCA002",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 39,
+  "External Marks": 35,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae0"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 34,
+  "External Marks": 38,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae1"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 20,
+  "External Marks": 53,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae2"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 37,
+  "External Marks": 58,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae3"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 34,
+  "External Marks": 44,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae4"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 29,
+  "External Marks": 34,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae5"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 33,
+  "External Marks": 40,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae6"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 28,
+  "External Marks": 57,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae7"
+  },
+  "Student Name": "AKASH I",
+  "Roll No": "23MCA003",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 24,
+  "External Marks": 37,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae8"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 33,
+  "External Marks": 42,
+  "Semester Marks": 69,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ae9"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 24,
+  "External Marks": 43,
+  "Semester Marks": 77,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4aea"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 27,
+  "External Marks": 46,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4aeb"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 20,
+  "External Marks": 47,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4aec"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 24,
+  "External Marks": 42,
+  "Semester Marks": 60,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4aed"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 38,
+  "External Marks": 38,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4aee"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 29,
+  "External Marks": 56,
+  "Semester Marks": 51,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4aef"
+  },
+  "Student Name": "AKSHAYAPRASANTH Y",
+  "Roll No": "23MCA004",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 33,
+  "External Marks": 33,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af0"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 22,
+  "External Marks": 55,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af1"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 36,
+  "External Marks": 55,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af2"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 36,
+  "External Marks": 52,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af3"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 28,
+  "External Marks": 59,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af4"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 20,
+  "External Marks": 57,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af5"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 24,
+  "External Marks": 57,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af6"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 37,
+  "External Marks": 34,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af7"
+  },
+  "Student Name": "ANU RATHNA DEVI R S",
+  "Roll No": "23MCA005",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 37,
+  "External Marks": 36,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af8"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 38,
+  "External Marks": 34,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4af9"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 39,
+  "External Marks": 50,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4afa"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 35,
+  "External Marks": 52,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4afb"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 26,
+  "External Marks": 36,
+  "Semester Marks": 86,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4afc"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 38,
+  "External Marks": 55,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4afd"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 22,
+  "External Marks": 53,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4afe"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 40,
+  "External Marks": 34,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4aff"
+  },
+  "Student Name": "ARUNA K",
+  "Roll No": "23MCA006",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 39,
+  "External Marks": 50,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b00"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 39,
+  "External Marks": 59,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b01"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 21,
+  "External Marks": 36,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b02"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 21,
+  "External Marks": 59,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b03"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 20,
+  "External Marks": 43,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b04"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 27,
+  "External Marks": 55,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b05"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 28,
+  "External Marks": 50,
+  "Semester Marks": 60,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b06"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 23,
+  "External Marks": 45,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b07"
+  },
+  "Student Name": "ARUNSURYA P",
+  "Roll No": "23MCA007",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 40,
+  "External Marks": 53,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b08"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 22,
+  "External Marks": 31,
+  "Semester Marks": 57,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b09"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 34,
+  "External Marks": 55,
+  "Semester Marks": 43,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b0a"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 23,
+  "External Marks": 55,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b0b"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 31,
+  "External Marks": 46,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b0c"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 60,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b0d"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 23,
+  "External Marks": 35,
+  "Semester Marks": 89,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b0e"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 38,
+  "External Marks": 48,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b0f"
+  },
+  "Student Name": "ASHA MERCY R",
+  "Roll No": "23MCA008",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 27,
+  "External Marks": 50,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b10"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 32,
+  "External Marks": 47,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b11"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 22,
+  "External Marks": 51,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b12"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 37,
+  "External Marks": 46,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b13"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 37,
+  "External Marks": 35,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b14"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 34,
+  "External Marks": 42,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b15"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 24,
+  "External Marks": 54,
+  "Semester Marks": 86,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b16"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 36,
+  "External Marks": 59,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b17"
+  },
+  "Student Name": "CHITRA BANU G",
+  "Roll No": "23MCA009",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 36,
+  "External Marks": 41,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b18"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 36,
+  "External Marks": 37,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b19"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 38,
+  "External Marks": 35,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b1a"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 36,
+  "External Marks": 41,
+  "Semester Marks": 86,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b1b"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 32,
+  "External Marks": 60,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b1c"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 20,
+  "External Marks": 54,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b1d"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 36,
+  "External Marks": 47,
+  "Semester Marks": 56,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b1e"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 37,
+  "External Marks": 48,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b1f"
+  },
+  "Student Name": "CYRUS STEWAUGH D",
+  "Roll No": "23MCA010",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 21,
+  "External Marks": 38,
+  "Semester Marks": 89,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b20"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 35,
+  "External Marks": 54,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b21"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 24,
+  "External Marks": 55,
+  "Semester Marks": 43,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b22"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 40,
+  "External Marks": 38,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b23"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 35,
+  "External Marks": 33,
+  "Semester Marks": 45,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b24"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 36,
+  "External Marks": 43,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b25"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 21,
+  "External Marks": 47,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b26"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 27,
+  "External Marks": 54,
+  "Semester Marks": 43,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b27"
+  },
+  "Student Name": "DHARSHINI T K",
+  "Roll No": "23MCA011",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 36,
+  "External Marks": 38,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b28"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 33,
+  "External Marks": 57,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b29"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 39,
+  "External Marks": 36,
+  "Semester Marks": 57,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b2a"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 29,
+  "External Marks": 32,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b2b"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 37,
+  "External Marks": 35,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b2c"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 20,
+  "External Marks": 38,
+  "Semester Marks": 73,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b2d"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 31,
+  "External Marks": 39,
+  "Semester Marks": 49,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b2e"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 26,
+  "External Marks": 38,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b2f"
+  },
+  "Student Name": "DURGA NANDHINI S",
+  "Roll No": "23MCA012",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 22,
+  "External Marks": 33,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b30"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 29,
+  "External Marks": 34,
+  "Semester Marks": 70,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b31"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 20,
+  "External Marks": 32,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b32"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 23,
+  "External Marks": 37,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b33"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 35,
+  "External Marks": 42,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b34"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 24,
+  "External Marks": 51,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b35"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 21,
+  "External Marks": 47,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b36"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 36,
+  "External Marks": 60,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b37"
+  },
+  "Student Name": "FRANKLIN IMMANUEL N",
+  "Roll No": "23MCA013",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 30,
+  "External Marks": 55,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b38"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 34,
+  "External Marks": 59,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b39"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 30,
+  "External Marks": 37,
+  "Semester Marks": 60,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b3a"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 23,
+  "External Marks": 30,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b3b"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 31,
+  "External Marks": 51,
+  "Semester Marks": 84,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b3c"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 23,
+  "External Marks": 38,
+  "Semester Marks": 57,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b3d"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 30,
+  "External Marks": 39,
+  "Semester Marks": 86,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b3e"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 24,
+  "External Marks": 33,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b3f"
+  },
+  "Student Name": "GAYATHIRI P",
+  "Roll No": "23MCA014",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 26,
+  "External Marks": 50,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b40"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 23,
+  "External Marks": 41,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b41"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 37,
+  "External Marks": 60,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b42"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 34,
+  "External Marks": 38,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b43"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 21,
+  "External Marks": 34,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b44"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 40,
+  "External Marks": 47,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b45"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 36,
+  "External Marks": 54,
+  "Semester Marks": 84,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b46"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 24,
+  "External Marks": 37,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b47"
+  },
+  "Student Name": "GIRINIKESH V",
+  "Roll No": "23MCA015",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 36,
+  "External Marks": 36,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b48"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 26,
+  "External Marks": 50,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b49"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 32,
+  "External Marks": 57,
+  "Semester Marks": 84,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b4a"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 23,
+  "External Marks": 54,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b4b"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 40,
+  "External Marks": 37,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b4c"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 27,
+  "External Marks": 34,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b4d"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 36,
+  "External Marks": 48,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b4e"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 24,
+  "External Marks": 40,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b4f"
+  },
+  "Student Name": "GOKULNATH M",
+  "Roll No": "23MCA016",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 22,
+  "External Marks": 34,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b50"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 39,
+  "External Marks": 48,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b51"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 21,
+  "External Marks": 60,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b52"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 37,
+  "External Marks": 55,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b53"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 23,
+  "External Marks": 60,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b54"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 29,
+  "External Marks": 36,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b55"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 40,
+  "External Marks": 30,
+  "Semester Marks": 56,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b56"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 32,
+  "External Marks": 57,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b57"
+  },
+  "Student Name": "GOWTHAM C",
+  "Roll No": "23MCA017",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 24,
+  "External Marks": 54,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b58"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 22,
+  "External Marks": 59,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b59"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 25,
+  "External Marks": 55,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b5a"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 28,
+  "External Marks": 30,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b5b"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 26,
+  "External Marks": 53,
+  "Semester Marks": 44,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b5c"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 36,
+  "External Marks": 58,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b5d"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 33,
+  "External Marks": 41,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b5e"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 20,
+  "External Marks": 55,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b5f"
+  },
+  "Student Name": "HARIHARAN S",
+  "Roll No": "23MCA018",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 39,
+  "External Marks": 52,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b60"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 39,
+  "External Marks": 44,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b61"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 40,
+  "External Marks": 45,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b62"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 33,
+  "External Marks": 51,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b63"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 29,
+  "External Marks": 60,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b64"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 56,
+  "Semester Marks": 51,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b65"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 24,
+  "External Marks": 52,
+  "Semester Marks": 73,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b66"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 31,
+  "External Marks": 52,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b67"
+  },
+  "Student Name": "HARIHARESWARAN T",
+  "Roll No": "23MCA019",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 31,
+  "External Marks": 55,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b68"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 36,
+  "External Marks": 55,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b69"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 31,
+  "External Marks": 60,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b6a"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 22,
+  "External Marks": 57,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b6b"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 39,
+  "External Marks": 57,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b6c"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 38,
+  "External Marks": 46,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b6d"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 38,
+  "External Marks": 46,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b6e"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 21,
+  "External Marks": 58,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b6f"
+  },
+  "Student Name": "HELAN SHARMILA S",
+  "Roll No": "23MCA020",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 24,
+  "External Marks": 40,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b70"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 39,
+  "External Marks": 41,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b71"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 26,
+  "External Marks": 44,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b72"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 51,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b73"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 29,
+  "External Marks": 32,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b74"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 28,
+  "External Marks": 48,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b75"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 30,
+  "External Marks": 59,
+  "Semester Marks": 86,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b76"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 24,
+  "External Marks": 40,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b77"
+  },
+  "Student Name": "HEMANTH KUMAR J",
+  "Roll No": "23MCA021",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 28,
+  "External Marks": 54,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b78"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 26,
+  "External Marks": 59,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b79"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 20,
+  "External Marks": 43,
+  "Semester Marks": 44,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b7a"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 55,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b7b"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 30,
+  "External Marks": 45,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b7c"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 20,
+  "External Marks": 52,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b7d"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 23,
+  "External Marks": 37,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b7e"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 30,
+  "External Marks": 30,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b7f"
+  },
+  "Student Name": "JAYAPRIYA E",
+  "Roll No": "23MCA022",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 22,
+  "External Marks": 59,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b80"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 30,
+  "External Marks": 44,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b81"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 25,
+  "External Marks": 45,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b82"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 29,
+  "External Marks": 40,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b83"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 36,
+  "External Marks": 38,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b84"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 23,
+  "External Marks": 46,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b85"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 35,
+  "External Marks": 49,
+  "Semester Marks": 52,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b86"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 31,
+  "External Marks": 33,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b87"
+  },
+  "Student Name": "JEYALAKSHMI S",
+  "Roll No": "23MCA023",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 29,
+  "External Marks": 35,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b88"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 20,
+  "External Marks": 33,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b89"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 31,
+  "External Marks": 36,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b8a"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 23,
+  "External Marks": 50,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b8b"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 21,
+  "External Marks": 53,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b8c"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 26,
+  "External Marks": 30,
+  "Semester Marks": 43,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b8d"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 24,
+  "External Marks": 34,
+  "Semester Marks": 69,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b8e"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 36,
+  "External Marks": 44,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b8f"
+  },
+  "Student Name": "JUDITH PACIFICA J",
+  "Roll No": "23MCA024",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 33,
+  "External Marks": 36,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b90"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 26,
+  "External Marks": 37,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b91"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 23,
+  "External Marks": 51,
+  "Semester Marks": 84,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b92"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 34,
+  "External Marks": 39,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b93"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 32,
+  "External Marks": 59,
+  "Semester Marks": 82,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b94"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 22,
+  "External Marks": 34,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b95"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 36,
+  "External Marks": 46,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b96"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 29,
+  "External Marks": 52,
+  "Semester Marks": 52,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b97"
+  },
+  "Student Name": "KABILA SHREE K",
+  "Roll No": "23MCA025",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 38,
+  "External Marks": 35,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b98"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 26,
+  "External Marks": 55,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b99"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 36,
+  "External Marks": 46,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b9a"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 21,
+  "External Marks": 57,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b9b"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 33,
+  "External Marks": 49,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b9c"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 26,
+  "External Marks": 47,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b9d"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 34,
+  "External Marks": 52,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b9e"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 28,
+  "External Marks": 51,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4b9f"
+  },
+  "Student Name": "KANISHKA K",
+  "Roll No": "23MCA026",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 25,
+  "External Marks": 30,
+  "Semester Marks": 84,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba0"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 31,
+  "External Marks": 31,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba1"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 23,
+  "External Marks": 53,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba2"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 28,
+  "External Marks": 40,
+  "Semester Marks": 45,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba3"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 23,
+  "External Marks": 37,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba4"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 40,
+  "External Marks": 34,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba5"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 24,
+  "External Marks": 50,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba6"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 31,
+  "External Marks": 40,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba7"
+  },
+  "Student Name": "KARTHIKEYAN A",
+  "Roll No": "23MCA027",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 29,
+  "External Marks": 49,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba8"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 30,
+  "External Marks": 55,
+  "Semester Marks": 69,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ba9"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 22,
+  "External Marks": 37,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4baa"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 33,
+  "External Marks": 34,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bab"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 32,
+  "External Marks": 42,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bac"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 39,
+  "External Marks": 45,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bad"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 22,
+  "External Marks": 56,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bae"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 20,
+  "External Marks": 54,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4baf"
+  },
+  "Student Name": "KAVIDHARSHINI I",
+  "Roll No": "23MCA028",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 29,
+  "External Marks": 43,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb0"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 35,
+  "External Marks": 33,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb1"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 33,
+  "External Marks": 43,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb2"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 24,
+  "External Marks": 55,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb3"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 30,
+  "External Marks": 46,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb4"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 25,
+  "External Marks": 57,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb5"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 28,
+  "External Marks": 50,
+  "Semester Marks": 52,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb6"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 37,
+  "External Marks": 38,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb7"
+  },
+  "Student Name": "KAVIYADHARSHINI M",
+  "Roll No": "23MCA029",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 28,
+  "External Marks": 45,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb8"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 39,
+  "External Marks": 38,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bb9"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 36,
+  "External Marks": 30,
+  "Semester Marks": 45,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bba"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 23,
+  "External Marks": 47,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bbb"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 31,
+  "External Marks": 34,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bbc"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 40,
+  "External Marks": 34,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bbd"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 23,
+  "External Marks": 38,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bbe"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 30,
+  "External Marks": 40,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bbf"
+  },
+  "Student Name": "KAVIYASSRI K",
+  "Roll No": "23MCA030",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 38,
+  "External Marks": 58,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc0"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 31,
+  "External Marks": 32,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc1"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 25,
+  "External Marks": 40,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc2"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 20,
+  "External Marks": 53,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc3"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 21,
+  "External Marks": 49,
+  "Semester Marks": 54,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc4"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 35,
+  "External Marks": 32,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc5"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 25,
+  "External Marks": 55,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc6"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 24,
+  "External Marks": 58,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc7"
+  },
+  "Student Name": "KISHORE R",
+  "Roll No": "23MCA031",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 26,
+  "External Marks": 49,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc8"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 24,
+  "External Marks": 32,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bc9"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 29,
+  "External Marks": 30,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bca"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 35,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bcb"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 32,
+  "External Marks": 56,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bcc"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 29,
+  "External Marks": 44,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bcd"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 32,
+  "External Marks": 32,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bce"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 27,
+  "External Marks": 41,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bcf"
+  },
+  "Student Name": "LOGESH RAJA M",
+  "Roll No": "23MCA032",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 40,
+  "External Marks": 46,
+  "Semester Marks": 51,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd0"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 20,
+  "External Marks": 59,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd1"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 36,
+  "External Marks": 53,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd2"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 29,
+  "External Marks": 39,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd3"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 21,
+  "External Marks": 36,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd4"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 38,
+  "External Marks": 50,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd5"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 40,
+  "External Marks": 57,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd6"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 38,
+  "External Marks": 42,
+  "Semester Marks": 95,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd7"
+  },
+  "Student Name": "MADHUMITHA K",
+  "Roll No": "23MCA033",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 29,
+  "External Marks": 55,
+  "Semester Marks": 56,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd8"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 31,
+  "External Marks": 53,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bd9"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 37,
+  "External Marks": 56,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bda"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 36,
+  "External Marks": 42,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bdb"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 34,
+  "External Marks": 32,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bdc"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 34,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bdd"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 40,
+  "External Marks": 33,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bde"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 33,
+  "External Marks": 60,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bdf"
+  },
+  "Student Name": "MATHANBABU M",
+  "Roll No": "23MCA034",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 24,
+  "External Marks": 54,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be0"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 24,
+  "External Marks": 44,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be1"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 32,
+  "External Marks": 51,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be2"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 27,
+  "External Marks": 43,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be3"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 22,
+  "External Marks": 49,
+  "Semester Marks": 58,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be4"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 40,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be5"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 29,
+  "External Marks": 53,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be6"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 39,
+  "External Marks": 37,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be7"
+  },
+  "Student Name": "MOHAMED IBRAHIM AFRITH M",
+  "Roll No": "23MCA035",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 38,
+  "External Marks": 40,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be8"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 30,
+  "External Marks": 36,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4be9"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 37,
+  "External Marks": 47,
+  "Semester Marks": 45,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bea"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 29,
+  "External Marks": 34,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4beb"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 25,
+  "External Marks": 32,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bec"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 27,
+  "External Marks": 30,
+  "Semester Marks": 43,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bed"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 27,
+  "External Marks": 35,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bee"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 25,
+  "External Marks": 44,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bef"
+  },
+  "Student Name": "MOHAMMED HAIF T J",
+  "Roll No": "23MCA036",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 28,
+  "External Marks": 60,
+  "Semester Marks": 95,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf0"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 24,
+  "External Marks": 51,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf1"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 24,
+  "External Marks": 50,
+  "Semester Marks": 56,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf2"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 26,
+  "External Marks": 54,
+  "Semester Marks": 77,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf3"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 30,
+  "External Marks": 59,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf4"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 26,
+  "External Marks": 37,
+  "Semester Marks": 44,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf5"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 26,
+  "External Marks": 48,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf6"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 27,
+  "External Marks": 32,
+  "Semester Marks": 73,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf7"
+  },
+  "Student Name": "NAGAVELAN C",
+  "Roll No": "23MCA037",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 33,
+  "External Marks": 33,
+  "Semester Marks": 45,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf8"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 24,
+  "External Marks": 51,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bf9"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 40,
+  "External Marks": 30,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bfa"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 20,
+  "External Marks": 32,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bfb"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 22,
+  "External Marks": 41,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bfc"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 28,
+  "External Marks": 59,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bfd"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 34,
+  "External Marks": 35,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bfe"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 37,
+  "External Marks": 52,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4bff"
+  },
+  "Student Name": "NARENDHAR R",
+  "Roll No": "23MCA038",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 38,
+  "External Marks": 42,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c00"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 20,
+  "External Marks": 39,
+  "Semester Marks": 45,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c01"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 39,
+  "External Marks": 50,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c02"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 22,
+  "External Marks": 58,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c03"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 28,
+  "External Marks": 54,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c04"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 20,
+  "External Marks": 36,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c05"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 31,
+  "External Marks": 37,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c06"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 33,
+  "External Marks": 40,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c07"
+  },
+  "Student Name": "NITHEESH K",
+  "Roll No": "23MCA039",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 21,
+  "External Marks": 45,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c08"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 31,
+  "External Marks": 45,
+  "Semester Marks": 58,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c09"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 26,
+  "External Marks": 41,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c0a"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 29,
+  "External Marks": 39,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c0b"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 33,
+  "External Marks": 59,
+  "Semester Marks": 58,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c0c"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 27,
+  "External Marks": 55,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c0d"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 21,
+  "External Marks": 47,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c0e"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 26,
+  "External Marks": 52,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c0f"
+  },
+  "Student Name": "NITISH M",
+  "Roll No": "23MCA040",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 38,
+  "External Marks": 52,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c10"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 27,
+  "External Marks": 56,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c11"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 30,
+  "External Marks": 34,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c12"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 27,
+  "External Marks": 40,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c13"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 25,
+  "External Marks": 52,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c14"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 23,
+  "External Marks": 55,
+  "Semester Marks": 57,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c15"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 29,
+  "External Marks": 59,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c16"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 27,
+  "External Marks": 36,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c17"
+  },
+  "Student Name": "POOJA JENIFER C",
+  "Roll No": "23MCA041",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 37,
+  "External Marks": 46,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c18"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 24,
+  "External Marks": 50,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c19"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 30,
+  "External Marks": 33,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c1a"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 33,
+  "External Marks": 58,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c1b"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 32,
+  "External Marks": 44,
+  "Semester Marks": 89,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c1c"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 22,
+  "External Marks": 42,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c1d"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 25,
+  "External Marks": 58,
+  "Semester Marks": 70,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c1e"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 29,
+  "External Marks": 39,
+  "Semester Marks": 69,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c1f"
+  },
+  "Student Name": "POOJA R",
+  "Roll No": "23MCA042",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 37,
+  "External Marks": 50,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c20"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 27,
+  "External Marks": 58,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c21"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 38,
+  "External Marks": 38,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c22"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 32,
+  "External Marks": 41,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c23"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 30,
+  "External Marks": 44,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c24"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 36,
+  "External Marks": 49,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c25"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 27,
+  "External Marks": 51,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c26"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 27,
+  "External Marks": 36,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c27"
+  },
+  "Student Name": "PRABANYA K",
+  "Roll No": "23MCA043",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 29,
+  "External Marks": 35,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c28"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 28,
+  "External Marks": 48,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c29"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 40,
+  "External Marks": 48,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c2a"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 31,
+  "External Marks": 57,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c2b"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 26,
+  "External Marks": 49,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c2c"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 36,
+  "External Marks": 32,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c2d"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 27,
+  "External Marks": 32,
+  "Semester Marks": 51,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c2e"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 33,
+  "External Marks": 52,
+  "Semester Marks": 44,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c2f"
+  },
+  "Student Name": "PRAKASH M V",
+  "Roll No": "23MCA044",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 32,
+  "External Marks": 55,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c30"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 36,
+  "External Marks": 31,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c31"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 38,
+  "External Marks": 37,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c32"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 24,
+  "External Marks": 56,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c33"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 39,
+  "External Marks": 60,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c34"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 20,
+  "External Marks": 38,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c35"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 38,
+  "External Marks": 51,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c36"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 20,
+  "External Marks": 42,
+  "Semester Marks": 58,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c37"
+  },
+  "Student Name": "PRATHEEKA P",
+  "Roll No": "23MCA045",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 39,
+  "External Marks": 59,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c38"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 29,
+  "External Marks": 48,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c39"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 23,
+  "External Marks": 41,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c3a"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 39,
+  "External Marks": 39,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c3b"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 27,
+  "External Marks": 30,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c3c"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 37,
+  "External Marks": 58,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c3d"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 36,
+  "External Marks": 59,
+  "Semester Marks": 95,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c3e"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 29,
+  "External Marks": 57,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c3f"
+  },
+  "Student Name": "PRATHIKA S",
+  "Roll No": "23MCA046",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 33,
+  "External Marks": 48,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c40"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 35,
+  "External Marks": 32,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c41"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 29,
+  "External Marks": 34,
+  "Semester Marks": 50,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c42"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 56,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c43"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 29,
+  "External Marks": 41,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c44"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 29,
+  "External Marks": 32,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c45"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 20,
+  "External Marks": 41,
+  "Semester Marks": 77,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c46"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 24,
+  "External Marks": 32,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c47"
+  },
+  "Student Name": "PRUTHVIRAJ D",
+  "Roll No": "23MCA047",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 31,
+  "External Marks": 56,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c48"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 26,
+  "External Marks": 58,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c49"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 31,
+  "External Marks": 34,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c4a"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 34,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c4b"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 28,
+  "External Marks": 49,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c4c"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 22,
+  "External Marks": 33,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c4d"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 39,
+  "External Marks": 48,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c4e"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 31,
+  "External Marks": 43,
+  "Semester Marks": 57,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c4f"
+  },
+  "Student Name": "PUGAZHENDHI K",
+  "Roll No": "23MCA048",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 20,
+  "External Marks": 52,
+  "Semester Marks": 85,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c50"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 36,
+  "External Marks": 32,
+  "Semester Marks": 57,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c51"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 34,
+  "External Marks": 52,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c52"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 44,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c53"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 34,
+  "External Marks": 42,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c54"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 25,
+  "External Marks": 41,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c55"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 30,
+  "External Marks": 38,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c56"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 37,
+  "External Marks": 57,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c57"
+  },
+  "Student Name": "ROHITH P",
+  "Roll No": "23MCA049",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 35,
+  "External Marks": 49,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c58"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 28,
+  "External Marks": 32,
+  "Semester Marks": 43,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c59"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 32,
+  "External Marks": 44,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c5a"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 21,
+  "External Marks": 31,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c5b"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 21,
+  "External Marks": 60,
+  "Semester Marks": 60,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c5c"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 34,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c5d"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 27,
+  "External Marks": 39,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c5e"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 23,
+  "External Marks": 37,
+  "Semester Marks": 95,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c5f"
+  },
+  "Student Name": "SACHIN KUMAR G",
+  "Roll No": "23MCA050",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 32,
+  "External Marks": 45,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c60"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 20,
+  "External Marks": 44,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c61"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 20,
+  "External Marks": 44,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c62"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 37,
+  "External Marks": 49,
+  "Semester Marks": 56,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c63"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 33,
+  "External Marks": 50,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c64"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 40,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c65"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 40,
+  "External Marks": 42,
+  "Semester Marks": 51,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c66"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 22,
+  "External Marks": 44,
+  "Semester Marks": 98,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c67"
+  },
+  "Student Name": "SANGEETHKUMAR M",
+  "Roll No": "23MCA051",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 38,
+  "External Marks": 41,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c68"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 40,
+  "External Marks": 56,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c69"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 27,
+  "External Marks": 47,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c6a"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 25,
+  "External Marks": 32,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c6b"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 33,
+  "External Marks": 50,
+  "Semester Marks": 85,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c6c"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 37,
+  "External Marks": 38,
+  "Semester Marks": 69,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c6d"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 24,
+  "External Marks": 45,
+  "Semester Marks": 77,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c6e"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 21,
+  "External Marks": 37,
+  "Semester Marks": 77,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c6f"
+  },
+  "Student Name": "SANJAY V",
+  "Roll No": "23MCA052",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 29,
+  "External Marks": 43,
+  "Semester Marks": 84,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c70"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 29,
+  "External Marks": 48,
+  "Semester Marks": 90,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c71"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 22,
+  "External Marks": 60,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c72"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 35,
+  "External Marks": 58,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c73"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 35,
+  "External Marks": 40,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c74"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 22,
+  "External Marks": 54,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c75"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 29,
+  "External Marks": 43,
+  "Semester Marks": 73,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c76"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 27,
+  "External Marks": 37,
+  "Semester Marks": 60,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c77"
+  },
+  "Student Name": "SHANKAR MAHADEVAN M",
+  "Roll No": "23MCA053",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 24,
+  "External Marks": 56,
+  "Semester Marks": 69,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c78"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 38,
+  "External Marks": 51,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c79"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 38,
+  "External Marks": 39,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c7a"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 40,
+  "External Marks": 53,
+  "Semester Marks": 86,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c7b"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 30,
+  "External Marks": 47,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c7c"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 35,
+  "External Marks": 56,
+  "Semester Marks": 44,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c7d"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 22,
+  "External Marks": 38,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c7e"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 38,
+  "External Marks": 42,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c7f"
+  },
+  "Student Name": "SHOBHIKAA G",
+  "Roll No": "23MCA054",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 35,
+  "External Marks": 53,
+  "Semester Marks": 58,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c80"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 23,
+  "External Marks": 57,
+  "Semester Marks": 43,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c81"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 22,
+  "External Marks": 43,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c82"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 24,
+  "External Marks": 51,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c83"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 27,
+  "External Marks": 50,
+  "Semester Marks": 56,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c84"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 51,
+  "Semester Marks": 83,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c85"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 29,
+  "External Marks": 38,
+  "Semester Marks": 67,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c86"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 33,
+  "External Marks": 49,
+  "Semester Marks": 69,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c87"
+  },
+  "Student Name": "SIDDHARTH K DURAISAMY",
+  "Roll No": "23MCA055",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 22,
+  "External Marks": 51,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c88"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 30,
+  "External Marks": 46,
+  "Semester Marks": 85,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c89"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 24,
+  "External Marks": 57,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c8a"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 29,
+  "External Marks": 38,
+  "Semester Marks": 45,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c8b"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 24,
+  "External Marks": 58,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c8c"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 40,
+  "External Marks": 37,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c8d"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 22,
+  "External Marks": 41,
+  "Semester Marks": 80,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c8e"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 31,
+  "External Marks": 41,
+  "Semester Marks": 76,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c8f"
+  },
+  "Student Name": "SIVARANJANI M",
+  "Roll No": "23MCA056",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 25,
+  "External Marks": 56,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c90"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 33,
+  "External Marks": 47,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c91"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 33,
+  "External Marks": 53,
+  "Semester Marks": 88,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c92"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 27,
+  "External Marks": 44,
+  "Semester Marks": 85,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c93"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 35,
+  "External Marks": 41,
+  "Semester Marks": 92,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c94"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 30,
+  "External Marks": 38,
+  "Semester Marks": 70,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c95"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 38,
+  "External Marks": 56,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c96"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 39,
+  "External Marks": 58,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c97"
+  },
+  "Student Name": "Student 57",
+  "Roll No": "23MCA057",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 31,
+  "External Marks": 57,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c98"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 39,
+  "External Marks": 37,
+  "Semester Marks": 91,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c99"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 26,
+  "External Marks": 56,
+  "Semester Marks": 60,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c9a"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 26,
+  "External Marks": 33,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c9b"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 32,
+  "External Marks": 50,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c9c"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 39,
+  "External Marks": 38,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c9d"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 21,
+  "External Marks": 55,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c9e"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 25,
+  "External Marks": 59,
+  "Semester Marks": 57,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4c9f"
+  },
+  "Student Name": "SRIRAM S",
+  "Roll No": "23MCA058",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 20,
+  "External Marks": 50,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca0"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 36,
+  "External Marks": 37,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca1"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 30,
+  "External Marks": 55,
+  "Semester Marks": 70,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca2"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 23,
+  "External Marks": 50,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca3"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 21,
+  "External Marks": 56,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca4"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 39,
+  "External Marks": 48,
+  "Semester Marks": 42,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca5"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 40,
+  "External Marks": 45,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca6"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 34,
+  "External Marks": 45,
+  "Semester Marks": 85,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca7"
+  },
+  "Student Name": "SURENDAR R G",
+  "Roll No": "23MCA059",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 39,
+  "External Marks": 58,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca8"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 40,
+  "External Marks": 38,
+  "Semester Marks": 89,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ca9"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 27,
+  "External Marks": 31,
+  "Semester Marks": 71,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4caa"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 30,
+  "External Marks": 45,
+  "Semester Marks": 86,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cab"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 39,
+  "External Marks": 50,
+  "Semester Marks": 61,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cac"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 35,
+  "External Marks": 33,
+  "Semester Marks": 62,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cad"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 25,
+  "External Marks": 45,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cae"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 36,
+  "External Marks": 60,
+  "Semester Marks": 66,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4caf"
+  },
+  "Student Name": "SUSHMA E",
+  "Roll No": "23MCA060",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 28,
+  "External Marks": 31,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb0"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 31,
+  "External Marks": 56,
+  "Semester Marks": 41,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb1"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 22,
+  "External Marks": 46,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb2"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 26,
+  "External Marks": 34,
+  "Semester Marks": 56,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb3"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 24,
+  "External Marks": 42,
+  "Semester Marks": 79,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb4"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 31,
+  "External Marks": 32,
+  "Semester Marks": 72,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb5"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 34,
+  "External Marks": 33,
+  "Semester Marks": 48,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb6"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 33,
+  "External Marks": 50,
+  "Semester Marks": 82,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb7"
+  },
+  "Student Name": "SUVETHA B",
+  "Roll No": "23MCA061",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 34,
+  "External Marks": 55,
+  "Semester Marks": 93,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb8"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 27,
+  "External Marks": 37,
+  "Semester Marks": 87,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cb9"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 27,
+  "External Marks": 59,
+  "Semester Marks": 78,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cba"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 24,
+  "External Marks": 53,
+  "Semester Marks": 68,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cbb"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 30,
+  "External Marks": 58,
+  "Semester Marks": 81,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cbc"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 35,
+  "External Marks": 40,
+  "Semester Marks": 94,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cbd"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 20,
+  "External Marks": 60,
+  "Semester Marks": 65,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cbe"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 34,
+  "External Marks": 57,
+  "Semester Marks": 74,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cbf"
+  },
+  "Student Name": "VASUNDHRA G",
+  "Roll No": "23MCA062",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 31,
+  "External Marks": 60,
+  "Semester Marks": 89,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc0"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 30,
+  "External Marks": 50,
+  "Semester Marks": 64,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc1"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 40,
+  "External Marks": 33,
+  "Semester Marks": 63,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc2"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 33,
+  "External Marks": 55,
+  "Semester Marks": 52,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc3"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 23,
+  "External Marks": 46,
+  "Semester Marks": 99,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc4"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 23,
+  "External Marks": 51,
+  "Semester Marks": 97,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc5"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 23,
+  "External Marks": 57,
+  "Semester Marks": 46,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc6"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 35,
+  "External Marks": 51,
+  "Semester Marks": 96,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc7"
+  },
+  "Student Name": "VIKKI V",
+  "Roll No": "23MCA063",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 25,
+  "External Marks": 60,
+  "Semester Marks": 75,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc8"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20CAT1001",
+  "Subject Title": "Data Structures and Algorithms",
+  "Internal Marks": 31,
+  "External Marks": 34,
+  "Semester Marks": 84,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cc9"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20CAT1002",
+  "Subject Title": "Database Technologies",
+  "Internal Marks": 28,
+  "External Marks": 54,
+  "Semester Marks": 59,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cca"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20CAT1103",
+  "Subject Title": "Advanced Operating Systems",
+  "Internal Marks": 38,
+  "External Marks": 48,
+  "Semester Marks": 40,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ccb"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20CAT1004",
+  "Subject Title": "Programming with JAVA",
+  "Internal Marks": 29,
+  "External Marks": 43,
+  "Semester Marks": 47,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ccc"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20MAT1101",
+  "Subject Title": "Probability and Statistics for Data Analysis",
+  "Internal Marks": 39,
+  "External Marks": 36,
+  "Semester Marks": 85,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ccd"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20CAP1501",
+  "Subject Title": "Database Technologies Laboratory",
+  "Internal Marks": 24,
+  "External Marks": 38,
+  "Semester Marks": 55,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4cce"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20CAP1502",
+  "Subject Title": "Data Structures Lab",
+  "Internal Marks": 35,
+  "External Marks": 52,
+  "Semester Marks": 53,
+  "Year-Month": "June-Dec 2023-24"
+},
+{
+  "_id": {
+    "$oid": "67a7224ca92a11a8010c4ccf"
+  },
+  "Student Name": "YAZHINI K",
+  "Roll No": "23MCA064",
+  "Semester": 1,
+  "Subject Code": "P20CAP1503",
+  "Subject Title": "Programming with JAVA Lab",
+  "Internal Marks": 39,
+  "External Marks": 59,
+  "Semester Marks": 51,
+  "Year-Month": "June-Dec 2023-24"
+}]
